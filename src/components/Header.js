@@ -3,8 +3,8 @@ import { Link } from 'react-router-dom';
 
 import './Header.css';
 
-import logo from '../assets/logo.svg';
-import camera from '../assets/camera.png';
+import logo from '../assets/logo.png';
+import camera from '../assets/camera.svg';
 
 export default function Header() {
   return (
